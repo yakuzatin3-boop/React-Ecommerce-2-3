@@ -6,7 +6,7 @@ import { FaCartPlus, FaCartArrowDown } from 'react-icons/fa'
 
 function Navbar() {
   return (
-    <div className='p-2 w-full h-18 bg-white  shadow-lg flex justify-between items-center fixed  top-0  ' >
+    <div className='p-2 w-full h-18 bg-white z-50  shadow-lg flex justify-between items-center fixed  top-0  ' >
       {/* navleft */}
       <div className='w-5xl flex justify-between items-center'>
 
